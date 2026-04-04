@@ -20,7 +20,12 @@ Data Structures & Algorithms, System Design, Machine Learning, Graph Algorithms
 
 ---
 
-## Featured Projects
+## My Projects
+
+### 💭 Chronological Knowledge Graph Infusion for Time-Aware NLU
+- Developed a time-aware NLP system that combines BERT embeddings, temporal encodings, and a dynamic knowledge graph for news classification  
+- Built a Chrono-Graph Infusion pipeline using PyTorch, spaCy, NetworkX, and Node2Vec, achieving 89.7% accuracy on AG News  
+
 
 ### 🔋 EV-WARCH — Risk-Aware EV Routing System
 - Built an EV route planning system considering battery SOC, charging stations, and weather conditions & Modeled real-world road networks using OSMnx and NetworkX  
